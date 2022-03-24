@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jsyn-20171016.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../sound.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../javamp3-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../gluegen-rt-natives-windows-i586.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
